@@ -1,6 +1,7 @@
 # React-Portfolio
 
 A dynamic portfolio built using React to showcase the developer's skills, projects, and experiences.
+Live application can be viewed here: https://young-obz-portfolio-3557036c546a.herokuapp.com/
 
 ## 🌟 Features
 
