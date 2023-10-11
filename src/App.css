@@ -1,3 +1,25 @@
+:root {
+  /* Light mode */
+  --primary-color: #36507d;
+  --secondary-color: rgba(189, 221, 255, 1);
+  --background-color: rgba(82, 104, 128, 0.541);
+  --main-text: rgba(29, 47, 66, 0.904);
+  --secondary-text: #666666;
+  --error-color: #d9534f;
+  --success-color: #5cb85c;
+  --warning-color: #f0ad4e;
+  --white: #fff;
+}
+
+.text,
+p {
+  color: var(--main-text);
+}
+/* font-family: 'Caveat', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Roboto', sans-serif; */
+
 .App {
-  text-align: center;
+  text-align: left;
+  background-color: var(--primary-color);
 }
