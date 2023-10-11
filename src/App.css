@@ -23,3 +23,60 @@ font-family: 'Roboto', sans-serif; */
   text-align: left;
   background-color: var(--primary-color);
 }
+
+/* .article {
+  text-align: left !important;
+} */
+.myName {
+  font-family: "Caveat", cursive;
+  color: var(--secondary-color);
+  font-size: 3rem;
+  text-shadow: 3px 3px var(--background-color);
+}
+
+.headshot {
+  border-radius: 5px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+blockquote,
+th,
+td,
+caption,
+label,
+button,
+input[type="text"],
+textarea {
+  /* color: var(--main-text); */
+  font-family: "Roboto", sans-serif;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.nav-title {
+  font-family: "Permanent Marker", cursive;
+}
+
+.nav-title:hover {
+  border-bottom: 2px solid var(--secondary-color);
+}
+
+a.nav-title.active {
+  color: var(--white);
+}
+
+.githublink .icon {
+  color: rgba(85, 26, 139, 1) !important;
+}
+
+.linkedinlink .icon {
+  color: rgba(0, 0, 238, 1);
+}

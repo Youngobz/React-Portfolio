@@ -6,8 +6,12 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import Projects from "./pages/Projects";
 
-const routeList = [{ path: "/about", component: <About /> }];
+const routeList = [
+  { path: "/about", component: <About /> },
+  { path: "/portfolio", component: <Projects /> },
+];
 
 function App() {
   return (
