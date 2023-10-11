@@ -55,4 +55,4 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ## 📜 License
 
-This project is open-source. Please refer to the repository's license file for more details.
+This project is open-source. 
